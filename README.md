@@ -1,9 +1,3 @@
-Correzioni del prof:
--json_encode doveva essere implementato in View
--Togliere View.php e Utility.php dalla root
--Mettere Session.php in Foundation
-
-
 ## Taste It
 
 ![alt text](https://www.scattidigusto.it/wp-content/uploads/2021/06/ristoranti-di-mare-Lazio.jpg)
